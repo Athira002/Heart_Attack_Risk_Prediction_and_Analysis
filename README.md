@@ -1,5 +1,7 @@
 # Heart_Attack_Risk_Prediction_and_Analysis
 
+![Heart.jpg]()
+
 ## Introduction
 Cardiovascular diseases, particularly heart attacks, are one of the leading causes of mortality worldwide, and the burden is rapidly increasing in developing countries like India. With changing lifestyles, urbanization, and increased exposure to risk factors such as smoking, poor diet, stress, diabetes, and hypertension, the Indian population has become increasingly vulnerable to heart-related conditions. Despite this, early detection and prevention strategies often remain underutilized due to a lack of personalized, data-driven risk assessments.
 
