@@ -6,3 +6,9 @@ Cardiovascular diseases, particularly heart attacks, are one of the leading caus
 This project focuses on predicting heart attack risk and identifying key contributing factors using data from the Indian population. By applying statistical techniques and machine learning models, the aim is to uncover meaningful patterns and insights that can help in early intervention and better risk stratification. The study explores clinical parameters like blood pressure, cholesterol levels, diabetes status, and lifestyle attributes such as smoking, alcohol consumption, and physical activity. It also investigates regional disparities by incorporating demographic variables such as state of residence and access to healthcare.
 
 The motivation behind this project lies in developing a data-informed approach that not only aids in individual risk prediction but also informs public health policies. By combining Exploratory Data Analysis (EDA), hypothesis testing, and classification models, this study strives to provide a holistic view of heart attack risk factors prevalent in India. The outcomes can support clinicians in understanding high-risk profiles and empower individuals to make informed health decisions. For more details see Prabhakaran et al.(2016).
+
+## Objectives of the Study
+    1. To identify and analyze key clinical and lifestyle factors (such as blood pressure, cholesterol levels, diabetes, obesity, stress, and smoking) associated with heart attack risk in the Indian population.
+    2. To perform statistical hypothesis testing (e.g., chi-square tests, logistic regression, ANOVA) to determine significant predictors of heart attack occurrence.
+    3. To build and evaluate predictive models (e.g., logistic regression, decision trees) for estimating the likelihood of heart attacks using structured health data.
+    4. To explore geographical and demographic variations in heart attack risk across different Indian states and age groups.
