@@ -15,3 +15,6 @@ The motivation behind this project lies in developing a data-informed approach t
 3. To build and evaluate predictive models (e.g., logistic regression, decision trees) for estimating the likelihood of heart attacks using structured health data.
 
 4. To explore geographical and demographic variations in heart attack risk across different Indian states and age groups.
+
+## Dataset
+Kaggle Dataset:[Heart Attack Risk & Prediction Dataset In India](https://www.kaggle.com/datasets/ankushpanday2/heart-attack-risk-and-prediction-dataset-in-india/data?select=heart_attack_prediction_india.csv)
