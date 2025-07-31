@@ -18,3 +18,13 @@ The motivation behind this project lies in developing a data-informed approach t
 
 ## Dataset
 Kaggle Dataset:[Heart Attack Risk & Prediction Dataset In India](https://www.kaggle.com/datasets/ankushpanday2/heart-attack-risk-and-prediction-dataset-in-india/data?select=heart_attack_prediction_india.csv)
+
+## About Dataset
+Cardiovascular diseases (CVDs) are the leading cause of death in India, with heart attacks (myocardial infarctions) accounting for a significant portion. India has a higher heart disease burden than many other nations, with cases occurring at younger ages compared to Western countries. This dataset incorporates key medical and lifestyle risk factors such as diabetes, hypertension, obesity, smoking, air pollution exposure, and healthcare access. 
+
+## Summary
+Using a dataset representative of the Indian population, this project carried out end-to-end analysis and prediction of heart attack risk. Through data preprocessing, feature selection, model training, and performance evaluation, it was found that factors such as age, diabetes, LDL levels, blood pressure, and stress have a significant impact on risk levels.
+
+Machine learning models were compared, and Logistic Regression with balanced class weights showed interpretable results, while Random Forests  were used for deeper insight. Clustering analysis revealed natural risk groups among patients, emphasizing the role of unsupervised learning in medical profiling.
+
+Overall, this study provides a robust framework for heart attack risk prediction, highlighting the importance of preventive care in the Indian context.
